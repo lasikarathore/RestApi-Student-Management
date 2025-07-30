@@ -56,13 +56,6 @@ A Spring Boot REST API to manage student records with full CRUD operations, laye
 
 
 
-## ▶️ How to Run
-
-
-git clone https://github.com/lasikarathore/RestApi-Student-Management.git
-cd student-api
-mvn spring-boot:run
-
 
 Visit: `http://localhost:8080/api/students`
 
